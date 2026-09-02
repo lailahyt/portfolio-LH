@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "slug": "stayease-hotel-booking",
+        "title": "StayEase – Hotel Room Booking Landing Page",
+        "category": "Frontend Web Development",
+        "client": {
+            "id": "Independent Portfolio Project",
+            "en": "Independent Portfolio Project"
+        },
+        "techStack": [
+            "Vue 3",
+            "Vite",
+            "Tailwind CSS v4",
+            "JavaScript"
+        ],
+        "description": {
+            "id": "Aplikasi web pemesanan kamar hotel berbasis landing page interaktif. Dilengkapi fitur pencarian & filter reaktif real-time, kalkulasi total biaya otomatis berdasarkan durasi malam, notifikasi toast kustom, serta penyimpanan riwayat pesanan ke localStorage.",
+            "en": "An interactive hotel room booking landing page web application. Features real-time reactive search & filtering, automated cost calculation based on night duration, custom toast notifications, and order history persistence with localStorage."
+        },
+        "image": "assets/stayease.png",
+        "githubUrl": "https://github.com/lailahyt/stayease-hotel-booking.git",
+        "demoUrl": "https://stayease-hotel-booking-seven.vercel.app/"
+    },
+    {
+        "id": 2,
+        "slug": "monitoring-sparepart-ssi",
+        "title": "Aplikasi Web Monitoring Stok Sparepart ATM Luar Kota",
+        "category": "Web Application Development",
+        "client": {
+            "id": "PT. Swadharma Sarana Informatika (SSI)",
+            "en": "PT. Swadharma Sarana Informatika (SSI)"
+        },
+        "techStack": [
+            "PHP Native",
+            "MySQL",
+            "Bootstrap"
+        ],
+        "description": {
+            "id": "Aplikasi web yang dibangun dari awal (from scratch) untuk mencatat, memantau, dan mengelola ketersediaan stok sparepart ATM luar kota secara real-time. Membantu inventarisasi unit luar kota menjadi lebih terstruktur dan efisien.",
+            "en": "A web application built from scratch to record, track, and manage out-of-town ATM spare part inventory in real time. Helps standardize and streamline inventory operations."
+        },
+        "image": "assets/sparepart.png",
+        "githubUrl": "https://github.com/lailahyt/Aplikasi-Monitoring-Stok-Sparepart-Berbasis-Web.git",
+        "demoUrl": null
+    },
+    {
+        "id": 3,
+        "slug": "spk-rastrada-topsis",
+        "title": "SPK & Monitoring Penerima Rastrada Menggunakan TOPSIS",
+        "category": "Web Application Development",
+        "client": {
+            "id": "Kelurahan Kandangan Barat",
+            "en": "Kandangan Barat District"
+        },
+        "techStack": [
+            "Laravel",
+            "TOPSIS Algorithm",
+            "MySQL",
+            "Bootstrap"
+        ],
+        "description": {
+            "id": "Sistem Informasi Pendukung Keputusan dan Pemantauan berbasis web menggunakan framework Laravel dan metode TOPSIS. Dirancang untuk menentukan kelayakan serta memantau penyaluran bantuan Beras Sejahtera Daerah (Rastrada) secara efisien dan transparan.",
+            "en": "A web-based Decision Support and Monitoring System using the Laravel framework and TOPSIS method, designed to evaluate eligibility and transparently track regional welfare aid distribution."
+        },
+        "image": "assets/rastrada.png",
+        "githubUrl": "https://github.com/lailahyt/Sistem-Pendukung-Keputusan-dan-Monitoring-Penerima-Rastrada-Menggunakan-TOPSIS.git",
+        "demoUrl": "https://spkrastrada.info/"
+    },
+    {
+        "id": 4,
+        "slug": "sewapro-rental-system",
+        "title": "SewaPro – Studio Booking & Photography Equipment Rental System",
+        "category": "Web Application Development",
+        "client": {
+            "id": "Product MVP / Independent Project",
+            "en": "Product MVP / Independent Project"
+        },
+        "techStack": [
+            "Laravel",
+            "Tailwind CSS",
+            "JavaScript",
+            "MySQL"
+        ],
+        "description": {
+            "id": "Aplikasi web manajemen sewa studio fotografi dan alat yang dilengkapi pencegahan double-booking, live countdown timer batas bayar DP 50%, operasional check-out/in verifikasi KTP fisik, serta pemantauan keterlambatan secara otomatis.",
+            "en": "A photography studio and equipment rental management system featuring double-booking prevention, a live 50% DP payment countdown timer, physical ID check-in/out verification, and automated delay tracking."
+        },
+        "image": "assets/sewapro.png",
+        "githubUrl": "https://github.com/lailahyt/sewapro-web-app.git",
+        "demoUrl": null
+    }
+]
